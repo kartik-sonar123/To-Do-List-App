@@ -9,6 +9,7 @@
    <li>Mark tasks as completed by toggling checkboxes.</li>
   <li>Delete individual tasks from the list effortlessly.</li>
   <li>Clear all tasks with a "Delete All" button.</li>
+ <li>Tasks are stored in <b>localStorage</b> and persist across page refreshes.</li>
 </ul>
 <hr />
 <h2>Technologies Used</h2>
@@ -18,7 +19,6 @@
   <li><b>JavaScript</b>: For implementing interactive functionality like task addition, deletion, and editing.</li>
 </ul>
 <hr />
-<hr />
 <h2>View Live</h2>
 <p>Check out the live version of the project here:  
-<a href="https://kartik-sonar123.github.io/to-do-list/" target="_blank"><b>To-Do List App - Live Demo</b></a></p>
+<a href="https://kartik-sonar123.github.io/To-Do-List-App/" target="_blank"><b>To-Do List App - Live Demo</b></a></p>
